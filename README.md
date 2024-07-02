@@ -12,7 +12,7 @@
 
 ## Introduction
 
-My Flutter Project is a simple task manager app designed to help users manage their daily activities and to-dos efficiently. Users can add, edit, delete tasks, assign priorities, set reminders, and view their tasks.
+Task Manager App is a simple task manager app designed to help users manage their daily activities and to-dos efficiently. Users can add, edit, delete tasks, assign priorities, set reminders, and view their tasks.
 
 ## Features
 
