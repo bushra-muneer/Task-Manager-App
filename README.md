@@ -33,7 +33,7 @@ Task Manager App is a simple task manager app designed to help users manage thei
 
 1. **Clone the repository:**
 
-   git clone [https://github.com/your-username/your-flutter-project.git](https://github.com/bushra-muneer/Task-Manager-App.git)
+   git clone (https://github.com/bushra-muneer/Task-Manager-App.git)
    cd your-flutter-project
 
 2. **Install dependencies:**
